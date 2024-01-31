@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Cura_TestSuites_AppointmentConfirmation_002</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2f868b2b-955b-48b9-97f9-140a7a4a881e</testSuiteGuid>
+   <testCaseLink>
+      <guid>71032580-4e62-49f2-ab68-a8c40221f59f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/hCURA_Make_Appointment/TC_CURA_AppointmentConformation_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5b7b5553-c5f3-4fb4-b053-8317773427be</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_CURA_AppointmentConfirmation_sheet/DD_MakeAppointment_1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5b7b5553-c5f3-4fb4-b053-8317773427be</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Facility</value>
+         <variableId>c88e6c15-cd70-4dd0-854d-b8f36c195d46</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b7b5553-c5f3-4fb4-b053-8317773427be</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>215b1778-e89b-47bb-8170-c35ff9ff5ad6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CURA_Login_Modes</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d96d5283-5020-4e01-8fd6-2f39fc057136</testSuiteGuid>
+   <testCaseLink>
+      <guid>174f7df3-89a9-4949-a920-fc59ceae1d24</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_Recording_Modes/TC_Login_Manual_Mode_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3ce86cee-2ed9-4f00-b400-e82c39adfb62</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data_CURA_ExcellSheet_Login/DD_Login_TestData_3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ad8f9e8a-6377-4a03-afb0-d2cbac8ff1f4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b5d6d122-bd1c-4edf-abfd-292c408791f3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c9a9c3f1-d2ce-4224-89ea-9b271b4571f7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_Recording_Modes/TC_Login_Record_And_Playback_Mode_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c1e9ff0c-8e7f-4042-b90e-2ef64fd54485</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data_CURA_ExcellSheet_Login/DD_Login_TestData_3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a8ffe915-6c43-4e04-b9dd-23d20430233e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5f809d9a-c7d7-434d-82a9-fa9a130e92d9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c8eb6603-b4fe-4685-9ba6-6ea2d339669a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_Recording_Modes/TC_Login_Script_Mode_003</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ad0d61ce-3858-45ee-a56c-f6adb9c2f11a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data_CURA_ExcellSheet_Login/DD_Login_TestData_3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>85dc9149-7f85-4f56-b1f4-05b895f946e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>93f713d2-3946-4c75-ba2e-1e1c213f6149</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

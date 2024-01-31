@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CURA_MakeAppointment_Modes</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>52bc03f7-fec4-409f-bd46-6ac95eeacf1a</testSuiteGuid>
+   <testCaseLink>
+      <guid>3696f602-3d0f-4a1a-be0d-a3f7998151eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MakeAppointment_Recording_Modes/TC_AppointmentConfirmation_Manual_Mode_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c14bc840-e777-4872-b68f-8e78982c47f5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_CURA_AppointmentConfirmation_sheet/DD_MakeAppointment_1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7c7d82b9-9010-4e25-8765-f70aefed3a00</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e03ccf5e-1314-4863-9bfb-84e2a15a0518</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3b26c6bb-ed98-499d-ae07-82ac79596978</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MakeAppointment_Recording_Modes/TC_AppointmentConfirmation_Record_And_Playback_Mode_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>77291eda-c32a-4596-8278-3eb0deaa2d9f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_CURA_AppointmentConfirmation_sheet/DD_MakeAppointment_1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>be831969-fc56-4261-b942-f7f96b1093aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b3f24c75-574b-4d90-b341-eb0cc9c6bba4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>24bab917-ee6d-41c8-81fe-2e13a2a9ff8f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MakeAppointment_Recording_Modes/TC_AppointmentConfirmation_Script_Mode_003</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>16996658-0fd6-43be-9758-da00b0b7bcbc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_CURA_AppointmentConfirmation_sheet/DD_MakeAppointment_1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5decf5a7-dcd2-40a7-930c-55080de061d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0831e3ec-3b42-4b10-91f5-d9e148422b74</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

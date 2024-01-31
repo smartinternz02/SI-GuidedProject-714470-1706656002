@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_Excell_001</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\APDurga maha lakshmi\Downloads\CURA_DATABASE_DD (6).xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Make Appointment_Credentials</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-01-15T19:22:52.162+05:30</taken-date>
+   <column-names>
+      <column-name>Facility</column-name>
+      <column-name>comment</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Hongkong CURA Healthcare Center",
+      "checked": true
+    },
+    {
+      "value": "please make an appointment for me",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Tokyo CURA Healthcare Center",
+      "checked": true
+    },
+    {
+      "value": "Can you please let me know the doctor available timings",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Seoul CURA Healthcare Center",
+      "checked": true
+    },
+    {
+      "value": "Let me know the doctor availability",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
